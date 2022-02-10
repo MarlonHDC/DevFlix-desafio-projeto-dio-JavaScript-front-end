@@ -66,4 +66,4 @@ O Projeto foi criado desde o início por:
 
 ## Exemplo
 
-![Desafio de Projeto new DevFlix](https://www.loom.com/share/62ab98f0f62f4ac5b85ed93dba620313)
+![Desafio de Projeto new DevFlix](https://j.gifs.com/mqN353.gif)
