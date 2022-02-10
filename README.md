@@ -67,5 +67,6 @@ O Projeto foi criado desde o início por:
 ## Exemplo
 
 
-![Desafio de Projeto new DevFlix](https://j.gifs.com/6WKE5N.gif)
+![DevFlixcurto](https://user-images.githubusercontent.com/94640918/153385136-22ac48a4-15fc-4fb7-a930-932506d8e53b.gif)
+
 
