@@ -66,4 +66,8 @@ O Projeto foi criado desde o início por:
 
 ## Exemplo
 
+<<<<<<< HEAD
 ![Desafio de Projeto new DevFlix](https://j.gifs.com/mqN353.gif)
+=======
+![Desafio de Projeto new DevFlix](https://gifs.com/gif/new-devflix-mqN353)
+>>>>>>> 37a93749552c83b61e905e54852ed334c5dad794
