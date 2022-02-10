@@ -67,6 +67,6 @@ O Projeto foi criado desde o início por:
 ## Exemplo
 
 
-![DevFlixcurto](https://user-images.githubusercontent.com/94640918/153385136-22ac48a4-15fc-4fb7-a930-932506d8e53b.gif)
+![new DevFlix ](https://user-images.githubusercontent.com/94640918/153386290-2b460102-dba3-44f8-a835-dc33fa8cb770.gif)
 
 
