@@ -35,8 +35,8 @@ Até finalizar
 ## Explicação detalhada do projeto:
 
 #### Neste projeto, inicialmente foi recriada a interface da NETFLIX, e posteriormente, como sugerido no desafio, colocamos nosso "toque especial", e, utilizando dos conceitos da própria aula/desafio de projeto, e outros adquiridos além do conteúdo da aula, modificamos o projeto e criamos o "new DevFlix".
-#### A "new DevFlix" é uma plataforma de vídeo onde é possível acessar os melhores conteúdo de séries de vídeos dos mais influentes Devs da atulidade, e é voltada para aprendizado e aperfeiçoamento de quem já é Dev, ou quem deseja ingressar na carreira Dev.
-#### A ideia do nome, como sua forma de escrever (new DevFlix) remeta a uma forma bastante utilizada de declaração de objetos em linguagem de programação empregando a técnica de "Pascal Case", trazendo uma identidade peculiar e fazendo um link com a identidade e o mundo Dev.
+#### A "new DevFlix" é uma plataforma de vídeo onde é possível acessar os melhores conteúdo de séries de vídeos dos mais influentes Devs da atualidade, e é voltada para aprendizado e aperfeiçoamento de quem já é Dev, ou quem deseja ingressar na carreira Dev.
+#### A ideia do nome, como sua forma de escrever (new DevFlix) remete a uma forma bastante utilizada de declaração de objetos em linguagem de programação empregando a técnica de "Pascal Case", trazendo uma identidade peculiar e fazendo um link com a identidade e o mundo Dev.
 #### Neste projeto acrescentamos links direcionados para novas abas, nos botões "ASSISTIR AGORA" E "MAIS INFORMAÇÕES" remetendo para episódios da série principal que é a "Digital Innovation One"
 
 ## 📌 Versão
