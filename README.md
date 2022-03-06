@@ -1,10 +1,10 @@
-# Estreando a "new DevFlix": uma plataforma de séries em vídeos voltada para quem é Dev, ou quem deseja começar uma carreira de Dev.
+## Estreando a "new DevFlix": uma plataforma de séries em vídeos voltada para quem é Dev, ou quem deseja começar uma carreira de Dev.
 
-## Neste código fiz o tão famoso e querido projeto de código no qual recriamos a interface da NETFLIX utilizando JavaScript, HTML e CSS.
+### Neste código fiz o tão famoso e querido projeto de código no qual recriamos a interface da NETFLIX utilizando JavaScript, HTML e CSS.
 
-## 🚀 Começando
+### 🚀 Começando
 
-## Essas instruções permitirão que você conheça os detalhes do projeto, obtenha uma cópia para operação na sua máquina local para fins de desenvolvimento e teste.
+### Essas instruções permitirão que você conheça os detalhes do projeto, obtenha uma cópia para operação na sua máquina local para fins de desenvolvimento e teste.
 
 
 
